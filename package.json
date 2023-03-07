@@ -13,6 +13,7 @@
     "axios": "^1.3.4",
     "bootstrap": "5.1.3",
     "element-plus": "^2.2.33",
+    "filter": "^0.1.1",
     "pinia": "2.0.14",
     "prismjs": "1.28.0",
     "typed.js": "2.0.12",

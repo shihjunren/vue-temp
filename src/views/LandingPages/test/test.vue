@@ -90,6 +90,7 @@ onUnmounted(() => {
     <!-- <AboutTeam />
         <Featuring />
         <Newsletter /> -->
+        <input type="date" width="25%">
   </div>
   <DefaultFooter />
 </template>
